@@ -2,6 +2,8 @@
 
 A simple implementation of the classic Blackjack game using HTML, CSS, and JavaScript. This project is designed to provide a lightweight and easy-to-understand version of the game, suitable for testing infrastructure services, learning purposes, or as a starting point for further development.
 
+Test this project at: [https://biagolini.github.io/WebPageBlackjack/](https://biagolini.github.io/WebPageBlackjack/)
+
 ## Getting Started
 
 To get started, clone or download the repository to your local machine. Once downloaded, open the index.html file in your preferred web browser to start playing the game.
